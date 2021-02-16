@@ -1,0 +1,8 @@
+C:\Users\jpradospalomo\source\repos\Tailwind.Ecommerce\Tailwind.Ecommerce.Application.DTO\bin\Debug\netstandard2.0\Tailwind.Ecommerce.Application.DTO.deps.json
+C:\Users\jpradospalomo\source\repos\Tailwind.Ecommerce\Tailwind.Ecommerce.Application.DTO\bin\Debug\netstandard2.0\Tailwind.Ecommerce.Application.DTO.dll
+C:\Users\jpradospalomo\source\repos\Tailwind.Ecommerce\Tailwind.Ecommerce.Application.DTO\bin\Debug\netstandard2.0\Tailwind.Ecommerce.Application.DTO.pdb
+C:\Users\jpradospalomo\source\repos\Tailwind.Ecommerce\Tailwind.Ecommerce.Application.DTO\obj\Debug\netstandard2.0\Tailwind.Ecommerce.Application.DTO.csprojAssemblyReference.cache
+C:\Users\jpradospalomo\source\repos\Tailwind.Ecommerce\Tailwind.Ecommerce.Application.DTO\obj\Debug\netstandard2.0\Tailwind.Ecommerce.Application.DTO.AssemblyInfoInputs.cache
+C:\Users\jpradospalomo\source\repos\Tailwind.Ecommerce\Tailwind.Ecommerce.Application.DTO\obj\Debug\netstandard2.0\Tailwind.Ecommerce.Application.DTO.AssemblyInfo.cs
+C:\Users\jpradospalomo\source\repos\Tailwind.Ecommerce\Tailwind.Ecommerce.Application.DTO\obj\Debug\netstandard2.0\Tailwind.Ecommerce.Application.DTO.dll
+C:\Users\jpradospalomo\source\repos\Tailwind.Ecommerce\Tailwind.Ecommerce.Application.DTO\obj\Debug\netstandard2.0\Tailwind.Ecommerce.Application.DTO.pdb
