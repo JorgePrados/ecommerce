@@ -1,0 +1,8 @@
+C:\Users\jpradospalomo\source\repos\Tailwind.Ecommerce\Tailwind.Ecommerce.Domain.Entity\bin\Debug\netstandard2.0\Tailwind.Ecommerce.Domain.Entity.deps.json
+C:\Users\jpradospalomo\source\repos\Tailwind.Ecommerce\Tailwind.Ecommerce.Domain.Entity\bin\Debug\netstandard2.0\Tailwind.Ecommerce.Domain.Entity.dll
+C:\Users\jpradospalomo\source\repos\Tailwind.Ecommerce\Tailwind.Ecommerce.Domain.Entity\bin\Debug\netstandard2.0\Tailwind.Ecommerce.Domain.Entity.pdb
+C:\Users\jpradospalomo\source\repos\Tailwind.Ecommerce\Tailwind.Ecommerce.Domain.Entity\obj\Debug\netstandard2.0\Tailwind.Ecommerce.Domain.Entity.csprojAssemblyReference.cache
+C:\Users\jpradospalomo\source\repos\Tailwind.Ecommerce\Tailwind.Ecommerce.Domain.Entity\obj\Debug\netstandard2.0\Tailwind.Ecommerce.Domain.Entity.AssemblyInfoInputs.cache
+C:\Users\jpradospalomo\source\repos\Tailwind.Ecommerce\Tailwind.Ecommerce.Domain.Entity\obj\Debug\netstandard2.0\Tailwind.Ecommerce.Domain.Entity.AssemblyInfo.cs
+C:\Users\jpradospalomo\source\repos\Tailwind.Ecommerce\Tailwind.Ecommerce.Domain.Entity\obj\Debug\netstandard2.0\Tailwind.Ecommerce.Domain.Entity.dll
+C:\Users\jpradospalomo\source\repos\Tailwind.Ecommerce\Tailwind.Ecommerce.Domain.Entity\obj\Debug\netstandard2.0\Tailwind.Ecommerce.Domain.Entity.pdb
